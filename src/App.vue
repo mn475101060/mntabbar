@@ -26,7 +26,7 @@
         <TabBarItem path = "/profile">
           <img slot = 'item-icon' src="./assets/img/tabbar/Tab bar Me.png" alt="">
           <img slot = 'item-icon-active' src="./assets/img/tabbar/Tab bar Me_active.png" alt="">
-          <div slot="item-text">my</div>
+          <div slot="item-text">我的</div>
         </TabBarItem>      
       </TabBar>
   </div>
